@@ -1,0 +1,19 @@
+{
+  "name": "pomelo-decodeio-protobuf",
+  "version": "0.0.1",
+  "description": "pomelo-decodeIO-protobuf ========================",
+  "main": "lib/ProtoBuf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cncowboy/pomelo-decodeIO-protobuf.git"
+  },
+  "author": "pomelonode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cncowboy/pomelo-decodeIO-protobuf/issues"
+  },
+  "homepage": "https://github.com/cncowboy/pomelo-decodeIO-protobuf#readme"
+}
